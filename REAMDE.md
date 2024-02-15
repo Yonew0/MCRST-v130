@@ -8,6 +8,7 @@
 **Ubuntu**
 $ sudo apt install default-jre
 $ java -jar mcrst-130-2.jar
+
 **Windows**
 java -jar mcrst.jar
 ## Требования
